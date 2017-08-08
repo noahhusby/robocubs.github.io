@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post
-writer: Person
+author: Person
 ---
 
 This is an example post. It looks great.
