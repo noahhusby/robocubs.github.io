@@ -1,0 +1,12 @@
+<head>
+	<meta charset="UTF-8">
+	<title>
+		{% if page.title == "Home" %}
+			Home | {{ site.title }}
+		{% else %}
+			{{ page.title }} | {{ site.title }}
+		{% endif %}
+	</title>
+	<link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat"
+</head>
