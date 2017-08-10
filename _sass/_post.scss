@@ -36,3 +36,22 @@
     text-decoration: underline;
   }
 }
+
+.icon {
+  font-size: 48pt;
+  &-social-facebook {
+    color: #3B5998;
+  }
+  &-social-twitter {
+    color: #1DA1F2;
+  }
+  &-social-instagram:before {
+    color: linear-gradient( #400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+  }
+  &-open-envelope {
+    color: #FF9800;
+  }
+}
