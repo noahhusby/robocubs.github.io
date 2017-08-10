@@ -44,7 +44,7 @@ Here at the Robocubs, we pride ourselves on building the best robot we can make.
 
 ![2016 Robot Image](https://robocubs.com/wp-content/uploads/2016/03/image-e1457093371488-225x300.jpg)
 
-## 2015 Robot
+## 2015 Robot: "The Tower of Terry"
 
 ##### Features
 
