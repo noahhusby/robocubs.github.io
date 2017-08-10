@@ -28,3 +28,4 @@ github:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-feed
