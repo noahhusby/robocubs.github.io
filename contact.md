@@ -6,10 +6,7 @@ permalink: /contact
 
 The Robocubs are available for contact in many ways. Choose one from below.
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=500&height=281&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-<a class="twitter-timeline" data-width="500" data-height="281" data-dnt="true" data-theme="dark" href="https://twitter.com/UDJRobocubs1701">Tweets by UDJRobocubs1701</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![Instagram](https://badges.instagram.com/static/images/ig-badge-view-24.png)](https://instagram.com/UDJRobocubs1701?ref=badge)
-
-[Since we don't have an email button, click here.](mailto:robocubs@robocubs.com)
+<i class="icon-social-facebook" style="font-size: 48pt; color: #3B5998"></i>
+<i class="icon-social-twitter" style="font-size: 48pt; color: #1DA1F2"></i>
+<i class="icon-social-instagram" style="font-size: 48pt; color: linear-gradient( #400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i>
+<i class="icon-envelope-open" style="font-size: 48pt; color: #FF9800"></i>
