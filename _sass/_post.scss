@@ -43,10 +43,16 @@
     filter: grayscale(100%);
     transition: all .5s ease;
   }
+  &-facebook-official:hover {
+    filter: grayscale(0%);
+  }
   &-twitter {
     color: #4099ff;
     filter: grayscale(100%);
     transition: all .5s ease;
+  }
+  &-twitter:hover {
+    filter: grayscale(0%);
   }
   &-instagram:before {
     background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
@@ -56,9 +62,15 @@
     filter: grayscale(100%);
     transition: all .5s ease;
   }
+  &-instagram:hover {
+    transition: grayscale(0%);
+  }
   &-envelope-o {
     color: #ff0000;
     filter: grayscale(100%);
     transition: all .5s ease;
+  }
+  &-envelope-o:hover {
+    filter: grayscale(0%);
   }
 }
