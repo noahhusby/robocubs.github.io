@@ -6,9 +6,7 @@ permalink: /contact
 
 The Robocubs are available for contact in many ways. Click one of the icons below.
 
-<br>
-
-<a href="https://www.facebook.com/Robocubs" class="icon-social-facebook"></a>
-<a href="https://twitter.com/UDJRobocubs1701" class="icon-social-twitter"></a>
-<a href="https://www.instagram.com/UDJRobocubs1701" class="icon-social-instagram"></a>
-<a href="mailto:robocubs@robocubs.com" class="icon-envelope-open"></a>
+<a href="https://www.facebook.com/Robocubs"><i class="fa-facebook-official fa-5"></i></a>
+<a href="https://twitter.com/UDJRobocubs1701"><i class="fa-twitter fa-5"></i></a>
+<a href="https://www.instagram.com/UDJRobocubs1701"><i class="fa-instagram fa-5"></i></a>
+<a href="mailto:robocubs@robocubs.com"><i class="fa-envelope-o fa-5"></i></a>

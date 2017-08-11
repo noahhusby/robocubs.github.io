@@ -37,25 +37,20 @@
   }
 }
 
-.icon {
-  &-social-facebook {
-    color: #3B5998;
-    font-size: 48pt;
-    text-decoration: none;
+.fa {
+  &-facebook-official {
+    color: #3b5998;
   }
-  &-social-twitter {
-    color: #1DA1F2;
-    font-size: 48pt;
-    text-decoration: none;
+  &-twitter {
+    color: #4099ff;
   }
-  &-social-instagram {
-    color: #d047d1;
-    font-size: 48pt;
-    text-decoration: none;
+  &-instagram:before {
+    background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial; /* reset Font Awesome's display:inline-block */
   }
-  &-open-envelope {
-    color: #FF9800;
-    font-size: 48pt;
-    text-decoration: none;
+  &-envelope-o {
+    color: #ff0000;
   }
 }
