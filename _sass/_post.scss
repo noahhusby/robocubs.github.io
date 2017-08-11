@@ -54,13 +54,15 @@
   &-twitter:hover {
     filter: grayscale(0%);
   }
+  &-instagram {
+    filter: grayscale(100%);
+    transition: all .5s ease;
+  }
   &-instagram:before {
     background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: initial; /* reset Font Awesome's display:inline-block */
-    filter: grayscale(100%);
-    transition: all .5s ease;
   }
   &-instagram:hover {
     transition: grayscale(0%);
