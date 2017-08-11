@@ -40,17 +40,25 @@
 .fa {
   &-facebook-official {
     color: #3b5998;
+    filter: grayscale(100%);
+    transition: all .5s ease;
   }
   &-twitter {
     color: #4099ff;
+    filter: grayscale(100%);
+    transition: all .5s ease;
   }
   &-instagram:before {
     background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: initial; /* reset Font Awesome's display:inline-block */
+    filter: grayscale(100%);
+    transition: all .5s ease;
   }
   &-envelope-o {
     color: #ff0000;
+    filter: grayscale(100%);
+    transition: all .5s ease;
   }
 }
