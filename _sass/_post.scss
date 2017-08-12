@@ -65,7 +65,7 @@
     display: initial; /* reset Font Awesome's display:inline-block */
   }
   &-instagram:hover {
-    transition: grayscale(0%);
+    filter: grayscale(100%);
   }
   &-envelope-o {
     color: #ff0000;
