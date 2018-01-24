@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About the Robocubs
-permalink: /about
+permalink: /bighuzz
 ---
 
 The University of Detroit Jesuit High School Robocubs build a culture within the school and throughout the city of Detroit, encouraging the development of science, technology, engineering and math. We operate with integrity and emphasize Gracious Professionalism, and strive to achieve justice in access to technology and knowledge.
